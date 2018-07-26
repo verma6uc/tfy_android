@@ -2,7 +2,7 @@
 <RelativeLayout
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    tools:context=".HomeActivity"
+    tools:context=".home.activity.HomeActivity"
 
     android:background="@android:color/white"
     android:layout_width="match_parent"
