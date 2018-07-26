@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- New Screen dimens -->
+    <dimen name="logosize">60dp</dimen>
+    <dimen name="iconlogosize">45dp</dimen>
+    <dimen name="loginpadding">7dp</dimen>
+    <dimen name="imagewidth">40sp</dimen>
+    <dimen name="circle_indiactor_margin">120dp</dimen>
+    <dimen name="assessment_card_padding">0dp</dimen>
+    <dimen name="assessment_image">140dp</dimen>
+    <dimen name="course_progress">2dp</dimen>
+    <dimen name="course_image">121dp</dimen>
+    <dimen name="course_download_progress">3dp</dimen>
+
+
+    <!-- Heading and paragraphs  -->
+    <dimen name="h1">23sp</dimen>
+    <dimen name="h2">22sp</dimen>
+    <dimen name="h3">21sp</dimen>
+    <dimen name="h4">20sp</dimen>
+    <dimen name="h5">19sp</dimen>
+    <dimen name="h6">18sp</dimen>
+    <dimen name="h7">17sp</dimen>
+    <dimen name="p1">16sp</dimen>
+    <dimen name="p2">15sp</dimen>
+    <dimen name="p3">14sp</dimen>
+    <dimen name="p4">13sp</dimen>
+    <dimen name="p5">12sp</dimen>
+    <dimen name="p6">11sp</dimen>
+    <dimen name="p7">10sp</dimen>
+    <dimen name="p8">9sp</dimen>
+    <dimen name="star_height">30dip</dimen>
+
+    <dimen name="largetext">32sp</dimen>
+
+    <dimen name="introduction_card_image">60dp</dimen>
+    <dimen name="introduction_card_margin">20dp</dimen>
+    <dimen name="title_para_margin">30dp</dimen>
+    <dimen name="interactive_margin">10dp</dimen>
+    <dimen name="interactive_margin_3">5dp</dimen>
+    <dimen name="draggable_card_2_image_size">150dp</dimen>
+    <dimen name="draggable_card_5_image_size">90dp</dimen>
+    <dimen name="draggable_card_5_center_image_size">160dp</dimen>
+    <dimen name="call_task_icon">160dp</dimen>
+
+</resources>

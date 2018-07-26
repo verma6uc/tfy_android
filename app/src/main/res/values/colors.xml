@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">@color/theme_color</color>
+    <color name="yellow">#fecf33</color>
+    <color name="light_orange">#fdbd39</color>
+    <color name="peach">#ee6723</color>
+    <color name="home_app_name">#a5a5a5</color>
+    <color name="theme_color">#eb384f</color>
+    <color name="white">#ffffff</color>
+    <color name="input_border">#9b9b9b</color>
+    <color name="error_bg">#ffeded</color>
+    <color name="error_text">#e35757</color>
+    <color name="black_theme_text">#3f3f3f</color>
+    <!--<color name="card_header">#d8d8d8</color>-->
+    <color name="card_header">@color/input_border</color>
+    <color name="unread_notification">#F7AFB8</color>
+    <color name="bluecolor">#23b6f9</color>
+    <color name="palegray">#f5f6f9</color>
+    <color name="answeredquestion">#ffe1e1</color>
+    <color name="green">#62bd3a</color>
+    <color name="success_color">#00C851</color>
+    <color name="failure_color">#ff4444</color>
+    <color name="progress_color">#d8d8d8</color>
+    <color name="line_color">#d8d8d8</color>
+    <color name="sender_chat_bg">#fcbfbf</color>
+    <color name="reciever_chat_bg">#EBEBEB</color>
+
+
+
+</resources>
